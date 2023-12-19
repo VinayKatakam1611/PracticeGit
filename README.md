@@ -1,1 +1,1 @@
-# PracticeGit
+# Welcome to the Practice session of Git.
